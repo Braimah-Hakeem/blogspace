@@ -16,7 +16,7 @@ nav {
     display: flex;
     align-items: center;
     position: fixed;
-    width: 500px;
+    width: inherit;
 }
 
 nav h1 {
