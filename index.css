@@ -16,7 +16,7 @@ nav {
     display: flex;
     align-items: center;
     position: fixed;
-    width: inherit;
+    width: 480px;
     padding: 0 10px;
 }
 
