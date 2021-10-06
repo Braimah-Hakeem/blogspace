@@ -6,7 +6,7 @@ body {
 
 .main {
     margin: 0 auto;
-    width:500px;
+    max-width:500px;
 }
 
 nav {
@@ -16,7 +16,7 @@ nav {
     display: flex;
     align-items: center;
     position: fixed;
-    width: 480px;
+    max-width: 480px;
     padding: 0 10px;
 }
 
