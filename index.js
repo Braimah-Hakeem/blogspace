@@ -49,10 +49,3 @@ fetch("https://apis.scrimba.com/jsonplaceholder/todos", {
     })
 
 })
-
-fetch("https://apis.scrimba.com/openweathermap/data/2.5/weather?q={lagos}")
-    .then(response => response.json)
-    .then(data => {
-        console.log(data)
-        document.getElementById("weather-list").innerHTML = data.weather
-    })
