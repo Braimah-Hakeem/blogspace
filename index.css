@@ -17,6 +17,7 @@ nav {
     align-items: center;
     position: fixed;
     width: inherit;
+    padding: 0 10px;
 }
 
 nav h1 {
