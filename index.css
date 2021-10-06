@@ -16,7 +16,7 @@ nav {
     display: flex;
     align-items: center;
     position: fixed;
-    max-width: 480px;
+    width: 480px;
     padding: 0 10px;
 }
 
